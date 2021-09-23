@@ -1,0 +1,14 @@
+#txt-output{
+    border: 1px solid black;
+    margin: auto;
+    padding: 1rem;
+    width: 80%;
+    height: 10vh;
+}
+textarea{
+    width: 80%;
+    height: 10vh;
+    display: block;
+    margin: auto;
+    padding: 1rem;
+}
